@@ -1,0 +1,201 @@
+Estacao,Linha,Horario,Passageiros
+Ana Rosa,Linha 2 - Verde,23:00,13639
+República,Linha 1 - Azul,13:00,12689
+Sé,Linha 1 - Azul,09:00,13310
+Luz,Linha 4 - Amarela,16:00,14994
+Brigadeiro,Linha 4 - Amarela,14:00,14482
+Paraíso,Linha 3 - Vermelha,06:00,14375
+Sé,Linha 4 - Amarela,08:00,11247
+Paraíso,Linha 2 - Verde,08:00,1800
+Consolação,Linha 2 - Verde,14:00,14875
+Trianon-MASP,Linha 4 - Amarela,21:00,4730
+Barra Funda,Linha 4 - Amarela,18:00,5125
+Consolação,Linha 4 - Amarela,21:00,813
+Barra Funda,Linha 2 - Verde,16:00,7083
+Ana Rosa,Linha 5 - Lilás,20:00,12607
+Ana Rosa,Linha 2 - Verde,19:00,761
+Ana Rosa,Linha 3 - Vermelha,16:00,8512
+Vila Mariana,Linha 1 - Azul,15:00,7722
+Barra Funda,Linha 1 - Azul,14:00,1393
+Vila Mariana,Linha 2 - Verde,11:00,11181
+Barra Funda,Linha 2 - Verde,09:00,6858
+República,Linha 2 - Verde,23:00,11377
+Ana Rosa,Linha 3 - Vermelha,06:00,3789
+Luz,Linha 3 - Vermelha,07:00,14699
+República,Linha 2 - Verde,19:00,9891
+Luz,Linha 5 - Lilás,07:00,1636
+Luz,Linha 1 - Azul,08:00,11089
+Ana Rosa,Linha 5 - Lilás,12:00,8050
+Paraíso,Linha 3 - Vermelha,18:00,8717
+Barra Funda,Linha 1 - Azul,09:00,9072
+Luz,Linha 5 - Lilás,08:00,14211
+Trianon-MASP,Linha 1 - Azul,22:00,13259
+Paraíso,Linha 1 - Azul,05:00,9123
+Brigadeiro,Linha 5 - Lilás,22:00,12437
+Trianon-MASP,Linha 1 - Azul,14:00,8394
+Luz,Linha 1 - Azul,14:00,8405
+Brigadeiro,Linha 2 - Verde,18:00,3627
+Ana Rosa,Linha 2 - Verde,17:00,8687
+Vila Mariana,Linha 2 - Verde,13:00,9890
+Sé,Linha 5 - Lilás,17:00,5231
+Sé,Linha 4 - Amarela,14:00,10502
+Ana Rosa,Linha 3 - Vermelha,08:00,9593
+Luz,Linha 4 - Amarela,05:00,4163
+Vila Mariana,Linha 3 - Vermelha,13:00,3237
+República,Linha 2 - Verde,06:00,5930
+Trianon-MASP,Linha 5 - Lilás,08:00,12197
+Barra Funda,Linha 2 - Verde,19:00,7539
+Sé,Linha 5 - Lilás,06:00,2305
+Luz,Linha 4 - Amarela,21:00,11412
+Paraíso,Linha 5 - Lilás,10:00,11926
+Trianon-MASP,Linha 5 - Lilás,07:00,6386
+Vila Mariana,Linha 3 - Vermelha,06:00,1647
+Luz,Linha 4 - Amarela,20:00,6759
+Ana Rosa,Linha 3 - Vermelha,19:00,8308
+Ana Rosa,Linha 4 - Amarela,19:00,10117
+Ana Rosa,Linha 5 - Lilás,06:00,2995
+Brigadeiro,Linha 4 - Amarela,19:00,14829
+Vila Mariana,Linha 1 - Azul,19:00,11239
+Barra Funda,Linha 1 - Azul,07:00,9986
+Ana Rosa,Linha 3 - Vermelha,20:00,13962
+Sé,Linha 4 - Amarela,09:00,3380
+Sé,Linha 3 - Vermelha,20:00,1547
+Consolação,Linha 3 - Vermelha,21:00,6803
+Brigadeiro,Linha 1 - Azul,23:00,202
+Consolação,Linha 1 - Azul,07:00,8972
+Brigadeiro,Linha 5 - Lilás,08:00,6106
+Sé,Linha 5 - Lilás,11:00,3208
+Trianon-MASP,Linha 4 - Amarela,15:00,8348
+Sé,Linha 3 - Vermelha,10:00,5644
+Consolação,Linha 5 - Lilás,23:00,2090
+Sé,Linha 4 - Amarela,16:00,12192
+República,Linha 5 - Lilás,21:00,12446
+Consolação,Linha 4 - Amarela,08:00,5471
+República,Linha 1 - Azul,12:00,9120
+Brigadeiro,Linha 4 - Amarela,06:00,10631
+Sé,Linha 4 - Amarela,13:00,11029
+Brigadeiro,Linha 3 - Vermelha,10:00,13288
+Brigadeiro,Linha 5 - Lilás,06:00,8661
+República,Linha 4 - Amarela,22:00,12550
+Brigadeiro,Linha 4 - Amarela,15:00,1997
+Trianon-MASP,Linha 1 - Azul,20:00,5416
+Brigadeiro,Linha 3 - Vermelha,08:00,3055
+Paraíso,Linha 2 - Verde,13:00,6936
+Sé,Linha 5 - Lilás,22:00,3313
+Paraíso,Linha 1 - Azul,05:00,1479
+Vila Mariana,Linha 2 - Verde,20:00,6478
+Luz,Linha 5 - Lilás,18:00,8070
+Barra Funda,Linha 2 - Verde,23:00,13845
+Paraíso,Linha 5 - Lilás,09:00,10019
+Ana Rosa,Linha 3 - Vermelha,22:00,7758
+República,Linha 4 - Amarela,07:00,6976
+Brigadeiro,Linha 1 - Azul,21:00,10983
+Barra Funda,Linha 1 - Azul,16:00,3783
+República,Linha 1 - Azul,11:00,10937
+Barra Funda,Linha 5 - Lilás,21:00,11186
+Vila Mariana,Linha 4 - Amarela,18:00,6721
+Vila Mariana,Linha 5 - Lilás,21:00,787
+Vila Mariana,Linha 1 - Azul,06:00,11824
+Paraíso,Linha 2 - Verde,08:00,9606
+Sé,Linha 5 - Lilás,08:00,1154
+Brigadeiro,Linha 4 - Amarela,20:00,7714
+Brigadeiro,Linha 4 - Amarela,08:00,4238
+Sé,Linha 5 - Lilás,05:00,13159
+Barra Funda,Linha 1 - Azul,16:00,13729
+Trianon-MASP,Linha 1 - Azul,11:00,6402
+Consolação,Linha 2 - Verde,10:00,3135
+Vila Mariana,Linha 1 - Azul,18:00,8261
+Consolação,Linha 3 - Vermelha,12:00,628
+Consolação,Linha 4 - Amarela,15:00,10867
+Luz,Linha 3 - Vermelha,08:00,8031
+Paraíso,Linha 2 - Verde,08:00,13994
+Barra Funda,Linha 2 - Verde,12:00,8925
+Ana Rosa,Linha 4 - Amarela,16:00,1864
+Sé,Linha 2 - Verde,17:00,4407
+Sé,Linha 5 - Lilás,18:00,4962
+Ana Rosa,Linha 5 - Lilás,20:00,2469
+Vila Mariana,Linha 4 - Amarela,18:00,69
+República,Linha 4 - Amarela,17:00,567
+Barra Funda,Linha 3 - Vermelha,18:00,3411
+Barra Funda,Linha 2 - Verde,05:00,9065
+Sé,Linha 2 - Verde,15:00,3594
+República,Linha 2 - Verde,10:00,6438
+Paraíso,Linha 1 - Azul,19:00,13775
+Sé,Linha 1 - Azul,18:00,8286
+Sé,Linha 2 - Verde,18:00,5828
+Paraíso,Linha 5 - Lilás,08:00,14359
+Luz,Linha 4 - Amarela,21:00,11928
+Barra Funda,Linha 3 - Vermelha,13:00,4722
+Sé,Linha 1 - Azul,19:00,11462
+Vila Mariana,Linha 2 - Verde,08:00,2604
+Consolação,Linha 5 - Lilás,16:00,4360
+Barra Funda,Linha 4 - Amarela,18:00,12588
+Consolação,Linha 3 - Vermelha,23:00,7574
+República,Linha 2 - Verde,23:00,6196
+Trianon-MASP,Linha 2 - Verde,05:00,1401
+Sé,Linha 2 - Verde,08:00,10042
+Vila Mariana,Linha 2 - Verde,22:00,989
+Barra Funda,Linha 2 - Verde,23:00,6091
+Sé,Linha 2 - Verde,06:00,2334
+Sé,Linha 4 - Amarela,06:00,10996
+Brigadeiro,Linha 4 - Amarela,23:00,10567
+Luz,Linha 4 - Amarela,06:00,5971
+Sé,Linha 2 - Verde,20:00,7310
+Barra Funda,Linha 2 - Verde,07:00,7728
+República,Linha 3 - Vermelha,22:00,5354
+Vila Mariana,Linha 2 - Verde,06:00,6005
+Ana Rosa,Linha 4 - Amarela,10:00,2625
+Luz,Linha 2 - Verde,20:00,9293
+Ana Rosa,Linha 2 - Verde,09:00,13888
+Vila Mariana,Linha 5 - Lilás,19:00,6191
+República,Linha 5 - Lilás,07:00,11088
+Barra Funda,Linha 4 - Amarela,13:00,5763
+Brigadeiro,Linha 1 - Azul,08:00,6695
+República,Linha 1 - Azul,15:00,4266
+Luz,Linha 5 - Lilás,07:00,4236
+Trianon-MASP,Linha 3 - Vermelha,17:00,11229
+Vila Mariana,Linha 5 - Lilás,08:00,12143
+Barra Funda,Linha 3 - Vermelha,23:00,1312
+Luz,Linha 4 - Amarela,18:00,11887
+Ana Rosa,Linha 5 - Lilás,21:00,594
+Ana Rosa,Linha 2 - Verde,19:00,9128
+Ana Rosa,Linha 2 - Verde,17:00,13522
+República,Linha 1 - Azul,22:00,13996
+Ana Rosa,Linha 4 - Amarela,15:00,13935
+Consolação,Linha 3 - Vermelha,15:00,6505
+Brigadeiro,Linha 3 - Vermelha,15:00,11465
+Trianon-MASP,Linha 4 - Amarela,07:00,3787
+Consolação,Linha 5 - Lilás,05:00,7703
+Vila Mariana,Linha 5 - Lilás,13:00,231
+Consolação,Linha 2 - Verde,17:00,10368
+Paraíso,Linha 5 - Lilás,23:00,11094
+Luz,Linha 3 - Vermelha,10:00,13393
+Luz,Linha 2 - Verde,20:00,1513
+Consolação,Linha 3 - Vermelha,12:00,10757
+Ana Rosa,Linha 5 - Lilás,11:00,10261
+Ana Rosa,Linha 3 - Vermelha,12:00,14627
+Vila Mariana,Linha 1 - Azul,08:00,1373
+Consolação,Linha 4 - Amarela,19:00,4845
+Ana Rosa,Linha 5 - Lilás,17:00,13181
+República,Linha 2 - Verde,14:00,3675
+Luz,Linha 1 - Azul,05:00,14106
+Luz,Linha 4 - Amarela,14:00,14498
+Consolação,Linha 4 - Amarela,12:00,1020
+Trianon-MASP,Linha 2 - Verde,11:00,6767
+Vila Mariana,Linha 2 - Verde,19:00,8341
+Luz,Linha 3 - Vermelha,13:00,7012
+Vila Mariana,Linha 3 - Vermelha,11:00,1356
+Brigadeiro,Linha 1 - Azul,12:00,2922
+República,Linha 5 - Lilás,09:00,4542
+Consolação,Linha 4 - Amarela,19:00,8011
+Ana Rosa,Linha 2 - Verde,05:00,1992
+Paraíso,Linha 3 - Vermelha,13:00,5204
+Consolação,Linha 5 - Lilás,20:00,3247
+Sé,Linha 4 - Amarela,18:00,5638
+República,Linha 2 - Verde,15:00,10739
+Brigadeiro,Linha 1 - Azul,19:00,8744
+Vila Mariana,Linha 4 - Amarela,14:00,13322
+Vila Mariana,Linha 4 - Amarela,09:00,11632
+Barra Funda,Linha 4 - Amarela,11:00,13383
+Brigadeiro,Linha 5 - Lilás,05:00,8730
+Barra Funda,Linha 2 - Verde,07:00,10346
